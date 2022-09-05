@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="3dp"
+    style="@android:style/Animation.Translucent"
+    app:cardUseCompatPadding="true"
+    app:cardBackgroundColor="@android:color/transparent">
+
+    <LinearLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+
+                        android:src="@drawable/saves" />
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:src="@drawable/ic_baseline_image_24"
+                        android:layout_marginLeft="5dp"/>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="290dp"
+                        android:layout_marginBottom="10dp">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="1"
+                            android:id="@+id/idcardview2"
+                            android:textSize="18dp"
+                            android:textStyle="bold"
+                            android:paddingTop="14dp"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text=" - "
+                            android:textSize="18dp"
+                            android:textStyle="bold" />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="1"
+                            android:id="@+id/idcardview"
+                            android:textSize="18dp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:id="@+id/ayatcardview"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                       android:layout_marginTop="10dp"
+                        android:text="بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ"
+                        android:textSize="22dp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/ayatnamecardview"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text=" شروع کرتا ہوں اللہ تعا لٰی کے نام سے جو بڑا مہربان نہایت رحم والا ہے ۔  ِ"
+                    android:textSize="16dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginBottom="15dp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

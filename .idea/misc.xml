@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/Islam360/app/src/main/res/layout/QuranPrototype.xml" value="0.20102564102564102" />
+        <entry key="..\:/AndroidProject/Islam360/app/src/main/res/layout/activity_ayatlist.xml" value="0.20102564102564102" />
+        <entry key="..\:/AndroidProject/Islam360/app/src/main/res/layout/activity_main.xml" value="0.20102564102564102" />
+        <entry key="..\:/AndroidProject/Islam360/app/src/main/res/layout/activity_quran_list.xml" value="0.20102564102564102" />
+        <entry key="..\:/AndroidProject/Islam360/app/src/main/res/layout/activity_second.xml" value="0.20102564102564102" />
+        <entry key="..\:/AndroidProject/Islam360/app/src/main/res/layout/fragment_hadees.xml" value="0.20102564102564102" />
+        <entry key="..\:/AndroidProject/Islam360/app/src/main/res/layout/fragment_ibadat.xml" value="0.20102564102564102" />
+        <entry key="..\:/AndroidProject/Islam360/app/src/main/res/layout/fragment_more.xml" value="0.20102564102564102" />
+        <entry key="..\:/AndroidProject/Islam360/app/src/main/res/layout/fragment_quran.xml" value="0.20102564102564102" />
+        <entry key="..\:/Islam360/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.1305" />
+        <entry key="..\:/Islam360/app/src/main/res/layout/QuranPrototype.xml" value="0.1" />
+        <entry key="..\:/Islam360/app/src/main/res/layout/activity_ayatlist.xml" value="0.20416666666666666" />
+        <entry key="..\:/Islam360/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Islam360/app/src/main/res/layout/activity_quran_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Islam360/app/src/main/res/layout/activity_second.xml" value="0.16216216216216217" />
+        <entry key="..\:/Islam360/app/src/main/res/layout/fragment_quran.xml" value="0.20102564102564102" />
+        <entry key="..\:/Islam360/app/src/main/res/layout/prototype.xml" value="0.2" />
+        <entry key="..\:/Islam360/app/src/main/res/menu/mymenu.xml" value="0.20102564102564102" />
+        <entry key="..\:/New Folder/Islam360/app/src/main/res/drawable/border.xml" value="0.108" />
+        <entry key="..\:/New Folder/Islam360/app/src/main/res/layout/activity_ayatlist.xml" value="0.2" />
+        <entry key="..\:/New Folder/Islam360/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/New Folder/Islam360/app/src/main/res/layout/activity_second.xml" value="0.18" />
+        <entry key="..\:/New Folder/Islam360/app/src/main/res/layout/fragment_hadees.xml" value="0.1" />
+        <entry key="..\:/New Folder/Islam360/app/src/main/res/layout/fragment_home_blank.xml" value="0.1" />
+        <entry key="..\:/New Folder/Islam360/app/src/main/res/layout/fragment_ibadat.xml" value="0.1" />
+        <entry key="..\:/New Folder/Islam360/app/src/main/res/layout/fragment_more.xml" value="0.1" />
+        <entry key="..\:/New Folder/Islam360/app/src/main/res/layout/fragment_quran.xml" value="0.20416666666666666" />
+        <entry key="..\:/New Folder/Islam360/app/src/main/res/menu/mymenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/New Folder/Islam360/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/New Folder/Islam360/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/zaryab khan/Downloads/Islam360/app/src/main/res/layout/fragment_ibadat.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

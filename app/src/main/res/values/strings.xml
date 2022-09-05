@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Islam360</string>
+
+
+    <string name="home_text">HOME</string>
+    <string name="like_text">HOME</string>
+    <string name="search_text">HOME</string>
+    <string name="shop_text">HOME</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
